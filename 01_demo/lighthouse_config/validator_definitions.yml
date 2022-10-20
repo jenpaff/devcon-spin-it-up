@@ -1,0 +1,8 @@
+---
+- enabled: true
+  voting_public_key: "0x8c27075a94b278ed9579903f720b16ac77fb5ddaee0a644b7d698eb5053be0d15dcc52e1d523e4ab1748ec774493a844"
+  suggested_fee_recipient: "0x000000000000000000000000000000000000dead"
+  description: ""
+  type: local_keystore
+  voting_keystore_path: /lighthouse/validators/8c27075a94b278ed9579903f720b16ac77fb5ddaee0a644b7d698eb5053be0d15dcc52e1d523e4ab1748ec774493a844/voting-keystore.json
+  voting_keystore_password: hts4WLC7aMGGfUDhV2rqo2nh*zhN-R
