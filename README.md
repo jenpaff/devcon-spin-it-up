@@ -1,5 +1,7 @@
 # Devcon VI Workshop - Spin it up
 
+[Here's the link](https://archive.devcon.org/archive/watch/6/spin-it-up-spin-up-your-own-ethereum-validator-on-testnet/) to the recording of our Workshop at Devcon IV.
+
 ## What you will learn
 - What it takes to become a validator on Ethereum
 - How to generate signing keys
